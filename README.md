@@ -10,6 +10,8 @@ pinned: false
 short_description: 'Prototype of a RAG that use summary for searching '
 ---
 
+## This is code of my hugging face spaces https://huggingface.co/spaces/Benfou21/Mutli_vector_RAG
+
 ## Usage :
 
 - On the first page, you can upload several PDF documents to create the retriever. Once this is done, you can proceed to the second page.
