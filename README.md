@@ -3,7 +3,7 @@
 ## Project Overview
 This personal project implements a chatbot using Retrieval-Augmented Generation (RAG) to provide accurate responses based on the content of uploaded PDF documents. It leverages Chroma for vector storage, Hugging Face transformers for language models, and multi-vector retrieval. The chatbot can handle both text and multimodal inputs (text and images), and it integrates summarization, document retrieval, and text generation to offer detailed answers from the uploaded documents.
 
-## Usage :
+## Usage 
 - Go on my space : https://huggingface.co/spaces/Benfou21/Mutli_vector_RAG (could be paused) 
 - On the first page, you can upload several PDF documents to create the retriever. Once this is done, you can proceed to the second page.
 - The second page allows you to ask questions about the documents that were loaded earlier.
