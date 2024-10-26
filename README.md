@@ -1,19 +1,9 @@
----
-title: Mutli Vector RAG
-emoji: 💬
-colorFrom: yellow
-colorTo: purple
-sdk: gradio
-sdk_version: 5.0.1
-app_file: app.py
-pinned: false
-short_description: 'Prototype of a RAG that use summary for searching '
----
 
-## This is code of my hugging face spaces https://huggingface.co/spaces/Benfou21/Mutli_vector_RAG
+
+## Project overview
 
 ## Usage :
-
+- Go on my space : https://huggingface.co/spaces/Benfou21/Mutli_vector_RAG
 - On the first page, you can upload several PDF documents to create the retriever. Once this is done, you can proceed to the second page.
 
 - The second page allows you to ask questions about the documents that were loaded earlier.
